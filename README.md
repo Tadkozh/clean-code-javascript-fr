@@ -1,5 +1,6 @@
 
 > Ceci est une traduction française de ce lien: https://github.com/ryanmcdermott/clean-code-javascript
+> Ceci est un fork de la traduction de euZebe : https://github.com/euZebe/clean-code-javascript-fr/
 
 ## Table Des Matières
 
